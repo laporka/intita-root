@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: var(--body_color);
+    font-size: var(--text_size);
+}
+
+:root{
+    --body_color:pink;
+    --text_size:30px;
+}
